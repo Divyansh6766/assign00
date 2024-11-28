@@ -52,6 +52,6 @@ Before you begin, make sure you have the following installed:
 3. **Build and Run with Docker Comp**
 4  **Build CI Pipeline with GitHub Actions save image on dockerhub**
 5  **Provision Kubernetes Cluster with Terraform**
-5  **Deploy Application with Helm**
+6  **Deploy Application with Helm**
 
 
