@@ -1,0 +1,4 @@
+apiVersion: v2
+name: python-crud-app
+description: A Helm chart for deploying the Python CRUD app
+version: 1.0.0

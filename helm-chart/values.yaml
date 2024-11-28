@@ -1,0 +1,13 @@
+replicaCount: 2
+
+image:
+  repository: choudhary6799/python-crud-app
+  tag: latest
+  pullPolicy: Always
+
+service:
+  type: ClusterIP
+  port: 8000
+
+ingress:
+  enabled: false
